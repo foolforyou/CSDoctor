@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>内科学</key>
+	<dict>
+		<key>心血管</key>
+		<string>100101</string>
+		<key>呼吸</key>
+		<string>100102</string>
+		<key>消化</key>
+		<string>100103</string>
+		<key>神经</key>
+		<string>100105</string>
+		<key>内分泌</key>
+		<string>100107</string>
+		<key>感染</key>
+		<string>100106</string>
+		<key>风湿免疫</key>
+		<string>100109</string>
+		<key>肾内</key>
+		<string>100108</string>
+	</dict>
+	<key>外科学</key>
+	<dict>
+		<key>普外</key>
+		<string>100201</string>
+		<key>骨科</key>
+		<string>100202</string>
+		<key>心胸外科</key>
+		<string>100204</string>
+		<key>胃肠外壳</key>
+		<string>100206</string>
+	</dict>
+	<key>妇产科学</key>
+	<dict>
+		<key>妇产科</key>
+		<string>100301</string>
+	</dict>
+	<key>儿科学</key>
+	<dict>
+		<key>儿科</key>
+		<string>100401</string>
+	</dict>
+	<key>肿瘤学</key>
+	<dict>
+		<key>肿瘤</key>
+		<string>101101</string>
+	</dict>
+	<key>论文写作</key>
+	<dict>
+		<key>论文指导</key>
+		<string>101801</string>
+	</dict>
+	<key>医学深造</key>
+	<dict>
+		<key>临床实践</key>
+		<string>102101</string>
+	</dict>
+</dict>
+</plist>
